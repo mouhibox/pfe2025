@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/*.log
+.env
+.env.local
+.env.*.php
+.DS_Store
